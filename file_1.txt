@@ -1,1 +1,5 @@
 This is the day 3 practice session.
+
+This is the adding line issues.
+
+Next will be line is removed. 
